@@ -65,7 +65,7 @@ export default ({ data }) => {
             ea commodo consequat.
           </p>
           <p className="i-5">
-            bla bla bla bla bla bla
+            Look at this cool paragraph! Wow!
           </p>
           <p className="i-5">
             Check out my <Link to="/projects">projects</Link> to see what I've
